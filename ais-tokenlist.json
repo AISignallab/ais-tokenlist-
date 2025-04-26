@@ -1,0 +1,19 @@
+{
+  "name": "AI Signal Token List",
+  "timestamp": "2025-04-26T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x81989029721596Eaf3E1f070421D19f3e2e68790",
+      "name": "AI Signal Coin",
+      "symbol": "AIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ТВОЙ_GITHUB/ais-tokenlist/main/ais-logo.png"
+    }
+  ]
+}
